@@ -1,0 +1,3 @@
+Python is easy to learn.
+I am practicing file handling.
+This is my first file parser.
